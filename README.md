@@ -1,7 +1,7 @@
 Olá! Eu sou o Zeca Souza.
 
-- 🔭 Hoje trabalho FullStack
-- 🌱 Estou estudando LARAVEL e VUE.JS
+- 🔭 Hoje trabalho Desenvolvedor BackEnd
+- 🌱 Estou estudando e trabalhando com Kotlin e SPRING BOOT
 - 📫 Contate-me no email: szeca00@gmail.com
 - 😄 Pronouns: Ele/dele
 
