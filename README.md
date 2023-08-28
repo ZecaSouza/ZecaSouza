@@ -30,26 +30,26 @@ Hi! I'am Zeca Souza.
 
 - Backend Development:
 
-° Java 17 /n
-° Spring (Boot, MVC, Data, Security, Cloud)
-° SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)
-° Hibernate
-° Caching
-° RabbitMQ
+° Java 17.
+° Spring (Boot, MVC, Data, Security, Cloud).
+° SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB).
+° Hibernate.
+° Caching.
+° RabbitMQ.
 
 - Software Architecture:
 
-° Microservices Architecture
-° RESTful APIs
-° Design Patterns
-° OOP Principles, SOLID, DRY, KISS
+° Microservices Architecture.
+° RESTful APIs.
+° Design Patterns.
+° OOP Principles, SOLID, DRY, KISS.
 
 - Cloud Computing and DevOps:
 
-° AWS Services such as Lambda, S2, EC2, RDS, ECS, and others
-° Docker
-° CI/CD pipelines, Jenkins
-° Git
-° TDD, BDD
-° Unit, Integration, and End-to-End Testing
-° JUnit, Cucumber
+° AWS Services such as Lambda, S2, EC2, RDS, ECS, and others.
+° Docker.
+° CI/CD pipelines, Jenkins.
+° Git.
+° TDD, BDD.
+° Unit, Integration, and End-to-End Testing.
+° JUnit, Cucumber.
