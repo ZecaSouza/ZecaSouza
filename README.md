@@ -1,7 +1,7 @@
 Hi! I'am Zeca Souza.
 
 - 🔭 I'm currently working as a Backend Developer.
-- 🌱 I'm studying and working with Kotlin and Spring Boot.
+- 🌱 I'm studying and working with Java/Kotlin and Spring Boot.
 - 📫 You can reach me via email: szeca00@gmail.com.
 - 💻 Experienced in building robust and scalable backend solutions.
 - 📱 Proficient in Kotlin for Android development, utilizing its modern features and best practices to create high-quality applications.
