@@ -26,3 +26,36 @@ Hi! I'am Zeca Souza.
     <a href = "mailto:contato.zecasouza@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jose-emanuel-borges-de-souza-1711771b6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+
+Backend Development:
+
+Java 17
+Spring (Boot, MVC, Data, Security, Cloud)
+SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)
+Hibernate
+Caching
+RabbitMQ
+Software Architecture:
+
+Microservices Architecture
+RESTful APIs
+Design Patterns
+OOP Principles, SOLID, DRY, KISS
+Cloud Computing and DevOps:
+
+AWS Services such as Lambda, S2, EC2, RDS, ECS, and others
+Docker
+CI/CD pipelines, Jenkins
+Git
+Interpersonal Skills:
+
+Agile Methodologies with Scrum and Kanban
+Collaborative and communicative team member
+Strong problem-solving skills
+Commitment to continuous learning
+Testing and Quality Assurance:
+
+TDD, BDD
+Unit, Integration, and End-to-End Testing
+JUnit, Cucumber
