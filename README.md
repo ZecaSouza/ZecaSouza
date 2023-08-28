@@ -30,7 +30,7 @@ Hi! I'am Zeca Souza.
 
 - Backend Development:
 
-° Java 17
+° Java 17 /n
 ° Spring (Boot, MVC, Data, Security, Cloud)
 ° SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)
 ° Hibernate
