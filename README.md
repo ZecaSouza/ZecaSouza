@@ -1,17 +1,17 @@
 Hi! I'am Zeca Souza.
 
-- 🔭 I'm currently working as a Backend Developer.
-- 🌱 I'm studying and working with Java/Kotlin and Spring Boot.
-- 📫 You can reach me via email: szeca00@gmail.com.
-- 💻 Experienced in building robust and scalable backend solutions.
-- 📱 Proficient in Kotlin for Android development, utilizing its modern features and best practices to create high-quality applications.
-- ☁️ Experienced with AWS, leveraging its services for building scalable and resilient cloud-based applications.
-- 🐳 Familiar with Docker, enabling containerization and efficient deployment of applications across different environments.
-- 🐇 Proficient in RabbitMQ, implementing message queuing and communication patterns in distributed systems.
-- 🚀 Proficient in developing microservices architecture, enabling modular and scalable application development.
-- 🌟 Published apps on the Google Play Store, showcasing my ability to deliver polished user experiences and meet industry standards.
-- 💡 Familiar with integrating RESTful APIs, handling data persistence, and implementing advanced features like notifications and background processing.
-- 📫 Feel free to contact me via email for any inquiries or collaboration opportunities.
+🔭 Atualmente, estou trabalhando como Desenvolvedor de Backend.
+🌱 Estou estudando e trabalhando com Java/Kotlin e Spring Boot.
+📫 Você pode entrar em contato comigo por e-mail: szeca00@gmail.com.
+💻 Experiência na construção de soluções backend robustas e escaláveis.
+📱 Proficiente em Kotlin para desenvolvimento Android, utilizando suas características modernas e melhores práticas para criar aplicativos de alta qualidade.
+☁️ Experiência com AWS, aproveitando seus serviços para construir aplicativos escaláveis e resilientes na nuvem.
+🐳 Familiarizado com Docker, possibilitando a contenerização e implementação eficiente de aplicativos em diferentes ambientes.
+🐇 Proficiente em RabbitMQ, implementando filas de mensagens e padrões de comunicação em sistemas distribuídos.
+🚀 Proficiente no desenvolvimento de arquitetura de microsserviços, possibilitando o desenvolvimento de aplicativos modulares e escaláveis.
+🌟 Publicação de aplicativos na Google Play Store, demonstrando minha capacidade de entregar experiências de usuário refinadas e atender aos padrões da indústria.
+💡 Familiarizado com a integração de APIs RESTful, gerenciamento de persistência de dados e implementação de recursos avançados como notificações e processamento em segundo plano.
+📫 Sinta-se à vontade para entrar em contato comigo por e-mail para qualquer dúvida ou oportunidade de colaboração.
 
 <div align="center">
   <a href="https://github.com/ZecaSouza">
