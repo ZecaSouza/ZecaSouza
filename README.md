@@ -18,8 +18,6 @@ Olá! Eu sou o Zeca Souza.
 
 📊 Análise de Dados: Competência em análise de dados para gerar insights que otimizam o desenvolvimento e a tomada de decisão, utilizando ferramentas e técnicas para coleta, análise e visualização de dados relevantes.
 
-🌟 Publicação na Google Play Store: Vários aplicativos publicados, com foco em experiência refinada e aderência aos padrões exigentes da indústria.
-
 💡 APIs RESTful e Persistência de Dados: Experiência avançada em criação de APIs, persistência de dados eficiente, além de funcionalidades complexas como notificações, processamento em segundo plano e integração com serviços externos.
 
 📫 Vamos nos conectar! Se você tiver interesse em colaboração, dúvidas ou quiser explorar novas oportunidades, estou disponível para contato no e-mail: szeca00@gmail.com. OU pelo whatsapp (87)98832-8999
