@@ -1,17 +1,28 @@
-Hi! I'am Zeca Souza.
+Olá! Eu sou o Zeca Souza.
 
-🔭 Atualmente, estou trabalhando como Desenvolvedor de Backend.
-🌱 Estou estudando e trabalhando com Java/Kotlin e Spring Boot.
-📫 Você pode entrar em contato comigo por e-mail: szeca00@gmail.com.
-💻 Experiência na construção de soluções backend robustas e escaláveis.
-📱 Proficiente em Kotlin para desenvolvimento Android, utilizando suas características modernas e melhores práticas para criar aplicativos de alta qualidade.
-☁️ Experiência com AWS, aproveitando seus serviços para construir aplicativos escaláveis e resilientes na nuvem.
-🐳 Familiarizado com Docker, possibilitando a contenerização e implementação eficiente de aplicativos em diferentes ambientes.
-🐇 Proficiente em RabbitMQ, implementando filas de mensagens e padrões de comunicação em sistemas distribuídos.
-🚀 Proficiente no desenvolvimento de arquitetura de microsserviços, possibilitando o desenvolvimento de aplicativos modulares e escaláveis.
-🌟 Publicação de aplicativos na Google Play Store, demonstrando minha capacidade de entregar experiências de usuário refinadas e atender aos padrões da indústria.
-💡 Familiarizado com a integração de APIs RESTful, gerenciamento de persistência de dados e implementação de recursos avançados como notificações e processamento em segundo plano.
-📫 Sinta-se à vontade para entrar em contato comigo por e-mail para qualquer dúvida ou oportunidade de colaboração.
+🔭 Desenvolvedor Backend com experiência em soluções escaláveis, robustas e de alta performance, sempre guiado pelas melhores práticas de engenharia de software.
+
+🌱 Atualmente, estou focado em Java/Kotlin e Spring Boot, combinando conhecimento profundo com um mindset de inovação contínua para criar soluções de ponta.
+
+📱 Kotlin para Android: Crio aplicativos Android de alta qualidade, utilizando práticas modernas e os recursos mais avançados da linguagem para aprimorar a experiência do usuário.
+
+☁️ AWS e Nuvem: Conhecimento em construção e manutenção de aplicativos escaláveis e resilientes na nuvem, usando a AWS para serviços de armazenamento, computação e pipelines de deploy contínuo.
+
+🐳 Docker: Proficiência em contenerização, permitindo implementação consistente e otimizada em diversos ambientes.
+
+🐇 RabbitMQ: Expertise em mensageria e sistemas distribuídos, implementando filas de mensagens e padrões de comunicação eficientes para sistemas de grande escala.
+
+🚀 Arquitetura de Microsserviços e Hexagonal: Experiência no desenvolvimento de arquiteturas modernas e modulares, incluindo a arquitetura hexagonal (ports and adapters), que promove a testabilidade e a flexibilidade dos sistemas. Familiarizado com arquiteturas em camadas e orientadas a eventos, garantindo escalabilidade e manutenção facilitada.
+
+🧪 Testes e Qualidade de Código: Aplicação de TDD (Test-Driven Development) e BDD (Behavior-Driven Development) para garantir a qualidade e confiabilidade do código. Uso de testes unitários, integração e mocks, alinhado a práticas de CI/CD.
+
+📊 Análise de Dados: Competência em análise de dados para gerar insights que otimizam o desenvolvimento e a tomada de decisão, utilizando ferramentas e técnicas para coleta, análise e visualização de dados relevantes.
+
+🌟 Publicação na Google Play Store: Vários aplicativos publicados, com foco em experiência refinada e aderência aos padrões exigentes da indústria.
+
+💡 APIs RESTful e Persistência de Dados: Experiência avançada em criação de APIs, persistência de dados eficiente, além de funcionalidades complexas como notificações, processamento em segundo plano e integração com serviços externos.
+
+📫 Vamos nos conectar! Se você tiver interesse em colaboração, dúvidas ou quiser explorar novas oportunidades, estou disponível para contato no e-mail: szeca00@gmail.com. OU pelo whatsapp (87)98832-8999
 
 <div align="center">
   <a href="https://github.com/ZecaSouza">
