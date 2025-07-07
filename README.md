@@ -1,26 +1,33 @@
-Olá! Eu sou o Zeca Souza.
+Olá, eu sou o Zeca Souza, desenvolvedor backend especializado em Kotlin e Spring Boot, com sólida experiência em bancos de dados e arquiteturas modernas.
 
-🔭 Desenvolvedor Backend com experiência em soluções escaláveis, robustas e de alta performance, sempre guiado pelas melhores práticas de engenharia de software.
+🔧 Visão de Software
+Crio soluções escaláveis, modulares e de alta performance, sempre guiado por princípios de Clean Code, testes automatizados e DevOps.
 
-🌱 Atualmente, estou focado em Java/Kotlin e Spring Boot, combinando conhecimento profundo com um mindset de inovação contínua para criar soluções de ponta.
+💻 Tecnologias e Competências
 
-📱 Kotlin para Android: Crio aplicativos Android de alta qualidade, utilizando práticas modernas e os recursos mais avançados da linguagem para aprimorar a experiência do usuário.
+Kotlin & Spring Boot
+Desenvolvimento de APIs RESTful e microsserviços, aplicando patterns de ports-and-adapters (arquitetura hexagonal) e programação reativa quando apropriado.
 
-☁️ AWS e Nuvem: Conhecimento em construção e manutenção de aplicativos escaláveis e resilientes na nuvem, usando a AWS para serviços de armazenamento, computação e pipelines de deploy contínuo.
+Banco de Dados & Persistência
+Modelagem relacional (PostgreSQL, MySQL) e NoSQL (MongoDB), tuning de consultas SQL, uso de JPA/Hibernate e scripts de migração (Flyway/Liquibase).
 
-🐳 Docker: Proficiência em contenerização, permitindo implementação consistente e otimizada em diversos ambientes.
+Microsserviços & Mensageria
+Design e implantação de serviços desacoplados, comunicação via RabbitMQ ou Kafka, garantindo resiliência e escalabilidade.
 
-🐇 RabbitMQ: Expertise em mensageria e sistemas distribuídos, implementando filas de mensagens e padrões de comunicação eficientes para sistemas de grande escala.
+Containerização & Nuvem
+Docker para ambientes consistentes; AWS (EC2, ECS, RDS, S3, Lambda) para orquestração, deploy contínuo e infraestruturas resilientes.
 
-🚀 Arquitetura de Microsserviços e Hexagonal: Experiência no desenvolvimento de arquiteturas modernas e modulares, incluindo a arquitetura hexagonal (ports and adapters), que promove a testabilidade e a flexibilidade dos sistemas. Familiarizado com arquiteturas em camadas e orientadas a eventos, garantindo escalabilidade e manutenção facilitada.
+Testes & Qualidade
+TDD/BDD com JUnit 5, Mockito, Testcontainers; pipelines de CI/CD (GitHub Actions, Jenkins) para automação de build, teste e deploy.
 
-🧪 Testes e Qualidade de Código: Aplicação de TDD (Test-Driven Development) e BDD (Behavior-Driven Development) para garantir a qualidade e confiabilidade do código. Uso de testes unitários, integração e mocks, alinhado a práticas de CI/CD.
+Análise de Dados
+Extração, transformação e visualização de métricas para monitoramento de performance e tomada de decisões orientadas a dados.
 
-📊 Análise de Dados: Competência em análise de dados para gerar insights que otimizam o desenvolvimento e a tomada de decisão, utilizando ferramentas e técnicas para coleta, análise e visualização de dados relevantes.
+📫 Vamos conversar?
+✉️ szeca00@gmail.com
+📱 (87) 98832-8999
 
-💡 APIs RESTful e Persistência de Dados: Experiência avançada em criação de APIs, persistência de dados eficiente, além de funcionalidades complexas como notificações, processamento em segundo plano e integração com serviços externos.
-
-📫 Vamos nos conectar! Se você tiver interesse em colaboração, dúvidas ou quiser explorar novas oportunidades, estou disponível para contato no e-mail: szeca00@gmail.com. OU pelo whatsapp (87)98832-8999
+— Aberto a colaborações, pair programming e novas oportunidades em projetos desafiadores.
 
 <div align="center">
   <a href="https://github.com/ZecaSouza">
