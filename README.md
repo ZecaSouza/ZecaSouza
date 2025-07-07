@@ -28,12 +28,6 @@ Extração, transformação e visualização de métricas para monitoramento de 
 📱 (87) 98832-8999
 
 — Aberto a colaborações, pair programming e novas oportunidades em projetos desafiadores.
-
-<div align="center">
-  <a href="https://github.com/ZecaSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZecaSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZecaSouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
    ##
   
